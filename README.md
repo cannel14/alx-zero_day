@@ -1,1 +1,1 @@
-# This file is mandatoryin all ALX School projects
+This is my first ALX project
